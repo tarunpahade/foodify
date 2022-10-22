@@ -173,7 +173,7 @@ document.querySelector('.checkout').onclick=()=>{
     basket.push({
       'customerName':customerName.value,
       'table number':tablenumber.value,
-      'additional instructions':additionalinfo.innerHTML
+      'additional instructions':additionalinfo.value,
     })
     console.log(basket);
     Email.send({
@@ -184,9 +184,8 @@ document.querySelector('.checkout').onclick=()=>{
       From : "tarunpahade55@gmail.com",
       Subject : 'food order',
       Body : basket
-  }).then(
-    message => alert(message)
-  );
+  })
+  
 label.innerHTML=`
 <h2>${customerName.value} Your order will be ready soon</h2>
 
