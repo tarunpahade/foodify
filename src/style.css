@@ -8,7 +8,7 @@ h2{
     width: 100%;
     background-color: #212529;
     margin: 0%;
-    padding: 1em;
+    /* padding: 1em; */
 }
 
 
@@ -32,8 +32,8 @@ nav{
         margin-right: 0.7em;
     }
 .cartimg{
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     background-color: #2d2d2e;
     
    
@@ -144,7 +144,7 @@ border-radius: 50px;
 .image{
     border-radius: 30px;
     width: 40%;
-    margin-right: 10%;
+    margin-right: 5%;
 }
 .price{
     color: antiquewhite;
@@ -271,8 +271,8 @@ button{
     background-color: #e78c14;
     border: none;
     color: #212529;
-    padding: 9px;
-    border-radius: 8px;
+    padding: 11px;
+    
 }
 .totalamt{
     margin-right: 5px;
