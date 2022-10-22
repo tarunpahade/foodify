@@ -138,7 +138,7 @@ let calc=()=>{
         label.innerHTML = `
         <h2>Total Bill : ₹ ${amount}</h2>
         
-        <button class="checkout" onclick='orderrOnClick()'>Checkout</button>
+        <button class="checkout" onclick='orderrOnClick()'>Order Now</button>
         <button onclick="clearCart()" class="removeAll">Clear Cart</button>
         <br>
         <input type='text' class='customerName' id='customerName' placeholder='Enter Your Name' req>
