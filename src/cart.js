@@ -139,7 +139,7 @@ let calc=()=>{
         <h2>Total Bill : ₹ ${amount}</h2>
         
         <button class="checkout" onclick='orderrOnClick()'>Order Now</button>
-        <button onclick="clearCart()" class="removeAll">Clear Cart</button>
+        <button onclick="clearCart()" class="removeAll">Clear Order</button>
         <br>
         <input type='text' class='customerName' id='customerName' placeholder='Enter Your Name' req>
         <input type='text' class='customerName' id='tablenumber' placeholder='Enter Table No. Given below Qr code' req>
