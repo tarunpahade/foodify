@@ -22,7 +22,7 @@ position: relative;
 margin-left: 10px;
       }
 nav{
-    margin:2em 3em;
+    margin:1em;
     display: flex;
     justify-content: space-between;
     border-radius: 4px;
