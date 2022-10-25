@@ -88,8 +88,16 @@ const pasta=[
         price:'320',
         pizza:'Old School Mac N cheese'
     },
-
-  
+    {
+        url:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9GAYpDXoV8wTjFhJ-E1NC36rNvvG7Nx-oQ&usqp=CAU',
+        price:'320',
+        pizza:'Old School Mac N cheese'
+    },
+      {
+        url:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu9GAYpDXoV8wTjFhJ-E1NC36rNvvG7Nx-oQ&usqp=CAU',
+        price:'320',
+        pizza:'Old School Mac N cheese'
+    },
 
 
 
@@ -120,6 +128,11 @@ const fries=[
         pizza:'Peri Peri'
     },
     {
+        url:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW57acj8509fwE_gT2InPcsc4fP-nKJ8QJUg&usqp=CAU',
+        price:'150',
+        pizza:'Schezwan Stir Fry'
+    },
+      {
         url:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW57acj8509fwE_gT2InPcsc4fP-nKJ8QJUg&usqp=CAU',
         price:'150',
         pizza:'Schezwan Stir Fry'
